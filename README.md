@@ -1,3 +1,3 @@
 # react-project
 
-** This project will help in explaining react, its notion and misconception **
+_This project will help in explaining react, its notion and misconception_
